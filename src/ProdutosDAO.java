@@ -9,6 +9,7 @@
  */
 
 // Funcionalidade de mensagem de sucesso implementada
+// Funcionalidade de listagem de produtos implementada
 
 import java.sql.PreparedStatement;
 import java.sql.Connection;
